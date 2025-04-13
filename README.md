@@ -1,4 +1,3 @@
-README para SPS_Back-End
 Descrição do Projeto
 O projeto SPS_Back-End é uma API RESTful desenvolvida com Node.js, Fastify e validação de dados utilizando Zod. Este repositório foi criado como parte de um desafio técnico para a Mazzatech, implementando operações CRUD para gerenciamento de dados.
 
