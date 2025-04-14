@@ -11,15 +11,16 @@ npm ou yarn (gerenciador de pacotes do Node.js)
 Instalação
 Clone este repositório:
 
-bash
 git clone https://github.com/emsxd/SPS_Back-End.git
 cd SPS_Back-End
 Instale as dependências do projeto:
 
-bash
+
 npm install
 Configuração
 
-bash
-npm start
-O servidor estará disponível em http://localhost:3000.
+cd dist 
+node server.js
+
+servidor vai abrir na pora 3333
+
